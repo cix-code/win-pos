@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Spotify",
+        "search_name": "^Spotify$",
+        "screen": 0,
+        "desktop": 0,
+        "width": "50%",
+        "height": "60%",
+        "align": "center center"
+    },
+    {
+        "name": "Visual Studio Code",
+        "search_name": ".*Visual\\sStudio\\sCode$",
+        "screen": 1,
+        "desktop": 1,
+        "width": "100%",
+        "height": "100%",
+        "align": "top left"
+    },
+    {
+        "name": "PyCharm",
+        "search_process": "pycharm/jbr/bin/java",
+        "screen": 1,
+        "desktop": 1,
+        "width": "100%",
+        "height": "100%",
+        "align": "top left"
+    },
+    {
+        "name": "Telegram",
+        "search_process": "telegram-desktop",
+        "screen": 1,
+        "desktop": 2,
+        "width": "40%",
+        "height": "60%",
+        "align": "bottom right"
+    }
+]
